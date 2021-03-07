@@ -1,0 +1,62 @@
+.container {
+    max-width: 960px;
+  }
+  
+  .pricing-header {
+    max-width: 700px;
+  }
+
+.head {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.shopName {
+    text-align: left;
+    color: coral;
+}  
+
+h4 {
+    color:coral;
+    font-weight: bold;
+}
+
+h5 {
+    color:coral;
+    font-weight: bold;
+}
+
+.homeLink {
+    color:coral;
+    text-decoration: none;
+}
+
+.onNav {
+    color: coral;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.bodyContent {
+    padding-top: 30px;
+}
+
+.bodyContentFavs {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    flex-direction: row;
+}
+
+.card-puzzle {
+    background-color: #cccccc;
+    /* color: coral; test colour */
+    min-height: 250px;
+    padding: 90px;
+}
